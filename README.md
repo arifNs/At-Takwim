@@ -28,5 +28,5 @@ Features and functions available in this app consist of:-
 -Leave comments on the recipe’s comment section for registered user.
 -Cooking video on every recipe that we integrated from YouTube.
 
-(/recipe app.png)
+(/images/recipe app.png)
 Format: ![Alt Text](url)
